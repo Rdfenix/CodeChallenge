@@ -1,3 +1,23 @@
+# CodeChallenge
+
+## To start that project you need, first start json - serve using that script:
+
+#### yarn start
+
+#### or 
+
+### npm run start
+
+## After that you just need start the front - end project using that script:
+
+### yarn start
+
+### or 
+
+### npm run start
+
+===============================================================================================
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

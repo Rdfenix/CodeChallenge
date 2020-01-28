@@ -1,0 +1,27 @@
+{
+  "products": [{
+    "id": 1,
+    "title": "Modelo Negra",
+    "url": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product/-/R/-R002151.png",
+    "unity": "12",
+    "description": "33oz Bottle",
+    "unityValue": "RD$32.00/Unit",
+    "promotion": "Buy 3, get 1 free"
+  }, {
+    "id": 2,
+    "title": "Modelo Negra",
+    "url": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product/-/R/-R002151.png",
+    "unity": "12",
+    "description": "33oz Bottle",
+    "unityValue": "RD$32.00/Unit",
+    "promotion": "Buy 3, get 1 free"
+  }, {
+    "id": 3,
+    "title": "Modelo Negra",
+    "url": "https://qa-m1-dr.abi-sandbox.net/media/catalog/product/-/R/-R002151.png",
+    "unity": "12",
+    "description": "33oz Bottle",
+    "unityValue": "RD$32.00/Unit",
+    "promotion": "Buy 3, get 1 free"
+  }]
+}

@@ -1,0 +1,118 @@
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  justify-content: center;
+}
+
+.cards-item {
+  display: flex;
+  padding: 15px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 0.25rem;
+  box-shadow: 0 20px 40px -14px rgba(0, 0, 0, 0.25);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  width: 250px;
+  max-height: 400px;
+}
+
+.card-content {
+  padding: 16px;
+  max-height: 12em;
+}
+
+.card-content span {
+  display: block;
+}
+
+.card-title {
+  color: #000;
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin: 0px;
+}
+
+.card-text {
+  color: #000;
+  font-size: 0.875rem;
+  line-height: 1.6;
+  margin-bottom: 1.25rem;
+  font-weight: 400;
+  width: auto;
+}
+
+.card-image {
+  display: flex;
+  justify-content: center;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+  width: 40%;
+  vertical-align: middle;
+}
+.card-footer {
+  padding: 10px;
+  width: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+span.unity-product {
+  color: #b9acac;
+}
+
+span.valeu-product {
+  font-weight: bold;
+  margin-top: 5px;
+}
+
+.promotion-product {
+  color: green;
+  font-size: 13px;
+}
+
+.product-details {
+  font-size: 13px;
+  font-weight: bold;
+}
+
+.row {
+  flex: 1;
+  padding: 5px;
+}
+
+.count {
+  padding: 6px 15px;
+  border: #b7b7b7 1px solid;
+  border-radius: 5px;
+  margin-left: 6px;
+  margin-right: 6px;
+}
+
+.count-button {
+  height: 25px;
+  width: 25px;
+  border-radius: 50%;
+  display: inline-block;
+  text-align: center;
+  border: 1px solid blue;
+}
+
+.add-button {
+  width: 100%;
+  text-align: center;
+  padding: 2px;
+  display: inline-block;
+  background: #c5c5c5;
+  border-radius: 5px;
+}
