@@ -1,6 +1,6 @@
 # CodeChallenge
 
-## To start that project you need, first start json - serve using that script:
+## To start that project you need, first enter in backend folder and start json - serve using that script:
 
 #### yarn start
 
@@ -16,7 +16,7 @@
 
 ### npm run start
 
-===============================================================================================
+=================================================================
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
